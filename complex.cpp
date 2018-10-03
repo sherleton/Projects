@@ -83,7 +83,7 @@ int main()
 	sum.print();
 	cout<<"Product: ";
 	prod.print();
-	cout<<"Negative of Complex no. 1: ";
+	cout<<"Negative of Complex number 1: ";
 	negative1.print();
 	cout<<"Negative of Complex no. 2: ";
 	negative2.print();
